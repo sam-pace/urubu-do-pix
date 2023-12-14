@@ -106,6 +106,7 @@ Rails/TransactionExitStatement:
 AllCops:
   NewCops: enable
   SuggestExtensions: false
+  TargetRubyVersion: 3.X
 
 Rails/ApplicationRecord:
   Enabled: false
